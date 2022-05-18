@@ -1,0 +1,5 @@
+https://cognizantlearning.sumtotal.host/rcore/c/pillarRedirect?isDeepLink=1&relyingParty=LM&url=https%3A%2F%2FCOGNIZANTLEARNING.sumtotal.host%2Flearning%2Fapp%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D1181277%26UserAction%3DRegister%26Task%3D2%26InvoiceId%3D0%26HasRegIssues%3D0%26CallerURL%3D%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%2F1181277%253FActivityId%253D1181277%2526UserMode%253D0
+=>angular lab
+
+https://cognizantlearning.sumtotal.host/Core/pillarRedirect?relyingParty=LM&url=https:%2F%2FCOGNIZANTLEARNING.sumtotal.host%2Flearning%2Fcore%2Factivitydetails%2FViewActivityDetails%3FUserMode%3D0%26ActivityId%3D1098382%26ClassUnderStruct%3DFalse%26CallerUrl%3D%2Flearning%2Flearner%2FHome%2FGoToPortal%3Fkey%3D0%26SearchCallerURL%3Dhttps%253A%252F%252FCOGNIZANTLEARNING.sumtotal.host%252Fcore%252FsearchRedirect%253FViewType%253DList%2526SearchText%253DCTHNT046540%2526startRow%253D0%26SearchCallerID%3D2
+=> .core lab url
