@@ -1,3 +1,14 @@
 https://github.com/nikhilshah85/11042022--.Net-Treadmill.git
 ====================================================
 git lint nikhil
+====================
+https://www.tutorialspoint.com/wpf/wpf_data_binding.htm#:~:text=Data%20binding%20is%20a%20mechanism,data%20object%20on%20user%20interface.
+=============================================================================================================
+
+linq for Wpf tutorial
+=======================
+https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/how-to-bind-to-a-collection-and-display-information-based-on-selection?view=netframeworkdesktop-4.8
+
+wpf codepile
+============
+https://www.codepile.net/pile/A0yLlJ5w
